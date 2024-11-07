@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toggle-theme-app-reactjs/static/css/main.d2b640da.css",
+    "main.js": "/toggle-theme-app-reactjs/static/js/main.1642b2e4.js",
+    "static/js/453.7758ac28.chunk.js": "/toggle-theme-app-reactjs/static/js/453.7758ac28.chunk.js",
+    "index.html": "/toggle-theme-app-reactjs/index.html",
+    "main.d2b640da.css.map": "/toggle-theme-app-reactjs/static/css/main.d2b640da.css.map",
+    "main.1642b2e4.js.map": "/toggle-theme-app-reactjs/static/js/main.1642b2e4.js.map",
+    "453.7758ac28.chunk.js.map": "/toggle-theme-app-reactjs/static/js/453.7758ac28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b640da.css",
+    "static/js/main.1642b2e4.js"
+  ]
+}
